@@ -6,7 +6,7 @@ class AboutPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepPurple[300],
+      backgroundColor: Colors.deepPurple[200],
       // Your AboutPage content
     );
   }
